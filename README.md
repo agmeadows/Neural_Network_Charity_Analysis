@@ -11,9 +11,9 @@ The purpose of this analysis is to determine if applicants will be successful if
         Removed Features: EIN, NAME
 
 ## Compiling, Training, and Evaluating the Model
-**First Pass:**
-        - Two hidden layers with 8 neurons on the first layer and 4 in the second layer 
-        - Relu was used as the activation function. This function is versatile and fast in most cases.
-        - The model performance acheived an accuracy of 68% which is below the requested 75%
+**First Pass:**<br>
+        Two hidden layers with 8 neurons on the first layer and 4 in the second layer 
+        Relu was used as the activation function. This function is versatile and fast in most cases.
+        The model performance acheived an accuracy of 68% which is below the requested 75%
     
 **Second Pass:**
